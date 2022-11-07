@@ -1,0 +1,22 @@
+.headline:hover{
+    color:blue;
+}
+.section{
+    background-image: linear-gradient(to bottom right,#4388af, #5757a1);
+    color:white;
+}
+.section:hover{
+    background-image: linear-gradient(#5757a1, #5757a1);
+}
+.sideBtn{
+    filter: drop-shadow(2px 2px 2px #5757a1);
+}
+.sideBtn:hover{
+    filter: drop-shadow(4px 4px 3px #5757a1);
+    background-image: linear-gradient(#5757a1, #5757a1);
+    color:white;
+}
+#img{
+    width: 300px;
+    height:300px;
+}
